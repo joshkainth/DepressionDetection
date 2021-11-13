@@ -1,0 +1,9 @@
+{
+    "access_key": "AKIASQEXC2RLYCGI2P5X",
+    "access_secret": "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",
+    "aws_region": "ap-south-1",
+    "bucket_name": "lifeback",
+    "root_folder_name": "depressed_data_uploads",
+    "audio_folder_name": "depressed_audios",
+    "image_folder_name": "depressed_mels"
+}
